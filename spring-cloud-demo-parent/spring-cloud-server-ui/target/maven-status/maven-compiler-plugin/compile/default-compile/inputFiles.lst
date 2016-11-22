@@ -1,0 +1,6 @@
+D:\springboot\spring-cloud-demo-parent\spring-cloud-server-ui\src\main\java\me\cloud\ribbonConfig.java
+D:\springboot\spring-cloud-demo-parent\spring-cloud-server-ui\src\main\java\me\cloud\service\CloudDemoService.java
+D:\springboot\spring-cloud-demo-parent\spring-cloud-server-ui\src\main\java\me\cloud\service\CloudDemoHystrixService.java
+D:\springboot\spring-cloud-demo-parent\spring-cloud-server-ui\src\main\java\me\cloud\UiApplication.java
+D:\springboot\spring-cloud-demo-parent\spring-cloud-server-ui\src\main\java\me\cloud\controller\TestController.java
+D:\springboot\spring-cloud-demo-parent\spring-cloud-server-ui\src\main\java\me\cloud\annotation\ExcludeFromComponent.java

@@ -1,0 +1,6 @@
+me\cloud\annotation\ExcludeFromComponent.class
+me\cloud\controller\TestController.class
+me\cloud\ribbonConfig.class
+me\cloud\service\CloudDemoHystrixService.class
+me\cloud\service\CloudDemoService.class
+me\cloud\UiApplication.class
